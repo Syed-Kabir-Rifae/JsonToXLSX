@@ -1,0 +1,30 @@
+[  
+   {  
+       "name":"Kabir",
+       "id":"003C6G",
+       "location":"Hyderabad",
+       "role":"Cloud",
+       "rating":"7/10",
+       "salary": 12110000,
+       "date":"12/2/2001"
+   },
+   {  
+      "name":"Micheal",
+      "id":"009C4J",
+      "location":"Pune",
+      "role":"Dbms",
+      "rating":"8/10",
+      "salary": 99990000,
+      "date":"19/01/2011"
+   },
+   {  
+      "name":"Ravi",
+      "id":"012ZSQ",
+      "location":"Mumbai",
+      "role":"Security",
+      "rating":"9/10",
+      "salary": 120000000,
+      "date":"12/12/2012"
+   }
+
+]
